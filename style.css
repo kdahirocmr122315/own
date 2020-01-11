@@ -121,7 +121,7 @@ nav {
 @keyframes opacity {
     0% {
         opacity: 0;
-        font-size: 4em;
+        font-size: 5em;
         flex: 2;
 
     }
@@ -129,7 +129,7 @@ nav {
     100% {
         flex: 1;
         opacity: 1;
-        font-size: 3em;
+        font-size: 4em;
     }
 }
 
