@@ -76,7 +76,7 @@ nav {
 
 .intro-text h1 {
     font-weight: 500;
-    font-size: 3em;
+    font-size: 4em;
     background: linear-gradient(to right, #000000, #f00);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -87,7 +87,7 @@ nav {
 .intro-text p {
     animation: left 2.5s ease;
     position: absolute;
-    font-size: .8em;
+    font-size: 1em;
 }
 
 
